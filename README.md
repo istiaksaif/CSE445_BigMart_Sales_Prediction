@@ -1,2 +1,2 @@
-# CSE445_COVID-19-&-Pneumonia-detection.
-COVID 19 and Pneumonia detection by analyzing Chest X-ray by machine learning model.
+# CSE445_BigMart Sales Prediction.
+Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
